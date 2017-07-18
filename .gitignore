@@ -1,0 +1,9 @@
+build/
+.classpath
+.gradle/
+.settings/
+.project
+.git
+.idea
+batis/bin/
+
